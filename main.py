@@ -34,7 +34,7 @@ with col3:
 st.title('Black-Scholes Pricing Model')
 st.markdown('This app calculates the price of European call and put options using the Black-Scholes formula. The app also includes interactive visualizations of option prices using heatmaps, 3D surface plots, and line plots.')
 # Display the main image at the beginning of the app
-st.image("C:/Users/amerb/Downloads/a-visually-appealing-and-professional-illustration-YCm-XkqzSsmXNet5N3mjNQ-H8P0cR9VS8mQ-jenh8svIg.jpeg", use_column_width=True)
+st.image("icons/image1.jpeg", use_column_width=True)
 
 
 st.sidebar.header('Parameters')
